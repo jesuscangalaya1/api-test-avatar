@@ -4,7 +4,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost/test-avatarsssss?createDatabaseIfNotExist=true&serverTimezone=UTC
+    url: jdbc:mysql://localhost/test-avatar?createDatabaseIfNotExist=true&serverTimezone=UTC
     username: root
     password: root
   jpa:
